@@ -1,0 +1,21 @@
+{
+  "name": "multipages",
+  "description": "marketplace",
+  "main": "index.js",
+  "author": "labracketeria",
+  "moduleType": [
+    "amd"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "^2.1.16"
+  }
+}
